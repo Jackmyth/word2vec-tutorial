@@ -41,5 +41,5 @@ python3 train.py
 ```
 6.測試我們訓練出的模型
 ```
-python3 demo.py
+python demo.py
 ```
